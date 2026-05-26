@@ -1,6 +1,48 @@
 # trumps-america
 The united states of america as seen through trump's eyes.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Financial Instability: The deregulation of savings and loan associations (S&Ls) contributed directly 
+to the Savings and Loan Crisis of the late 1980s and early 1990s. A lack of oversight combined with 
+newly allowed risky investments led to the failure of hundreds of institutions and required a 
+massive taxpayer-funded bailout
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Milestone 4: White House Review. When President Ronald Reagan took office in 1981, he issued 
+Executive Order 12,291, giving the newly created OIRA a gatekeeper role in reviewing draft 
+regulations—as well as paperwork—to ensure that their benefits exceeded their costs. Although this 
+order was initially controversial, each subsequent president has continued and expanded OIRA’s 
+central regulatory oversight role, as well as the economic principles embodied in the orders 
+issued by Presidents Reagan and Carter.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+In 1993, President William Clinton replaced Executive Order 12,291 with Executive Order 12,866, 
+which remains in effect today, despite the very different regulatory rhetoric of Presidents Bush, 
+Obama, and Trump, who succeeded him. Executive Order 12,866 retained OIRA’s review of significant 
+new regulations. It also reinforced the philosophy that regulations should be based on an analysis 
+of the benefits and costs of all available alternatives, and that agencies should select regulatory 
+approaches that maximize net benefits to society unless otherwise constrained by law.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+President Ronald Reagan significantly advanced economic deregulation by eliminating federal price 
+controls, easing industry-specific regulations, and centralizing White House oversight to scale 
+back federal agency rules. 
+
+The George Washington University
+His key actions and their widespread effects across different sectors include:
+Centralizing Review: Signed Executive Order 12291, requiring federal agencies to conduct cost-benefit 
+analyses before issuing new regulations.
+Energy: Ended federal price and allocation controls on domestic oil and natural gas immediately upon 
+taking office, which led to an immediate drop in prices.
+Finance: Signed the Garn-St. Germain Depository Institutions Act of 1982, heavily deregulating savings 
+and loan associations and allowing banks to offer adjustable-rate mortgages.
+Telecommunications: Allowed the break-up of the AT&T monopoly and relaxed rules on broadcasting, 
+notably eliminating the Fairness Doctrine through the Federal Communications Commission (FCC).
+Transportation: Eased controls on interstate bus services, trucking, and ocean shipping, while 
+continuing the airline deregulation process initiated by his predecessor.
+Environment & Labor: Appointed officials who sought to slash budgets and relax enforcement at 
+agencies like the Environmental Protection Agency (EPA) and the Occupational Safety and Health 
+Administration (OSHA). 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Trump's America
 by DW Documentary
 

@@ -2,6 +2,22 @@
 The united states of america as seen through trump's eyes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+While Ronald Reagan's deregulation aimed to stimulate economic growth, it resulted in several 
+notable negative effects, particularly concerning consumer standards, environmental protection, 
+and financial stability: 
+Impact on Children's Media: Deregulation of television programming led to an increase in commercials 
+for junk food and toys, while simultaneously causing a decrease in educational programming for children.
+Environmental Degradation: The relaxation of environmental standards opened millions of acres of 
+public land for private exploitation through drilling, mining, and logging, which critics argued 
+endangered ecological integrity.
+Financial Instability (Savings and Loan Crisis): Removing government oversight in the financial 
+sector contributed to economic instability and unethical business practices, eventually leading 
+to the Savings and Loan crisis.
+Weakening of Labor Rights: Deregulation efforts, combined with high-profile actions like the 
+firing of striking air traffic controllers, significantly weakened labor unions and reduced 
+worker bargaining power. 
+
+Fiveable
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Financial Instability: The deregulation of savings and loan associations (S&Ls) contributed directly 
